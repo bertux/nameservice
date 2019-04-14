@@ -22,7 +22,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/auth"
 	"github.com/cosmos/cosmos-sdk/x/bank"
 	"github.com/cosmos/cosmos-sdk/x/params"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	"github.com/bertux/nameservice/x/staking/types"
 )
 
 // dummy addresses used for testing

@@ -8,8 +8,8 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	keep "github.com/cosmos/cosmos-sdk/x/staking/keeper"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	keep "github.com/bertux/nameservice/x/staking/keeper"
+	"github.com/bertux/nameservice/x/staking/types"
 )
 
 var (

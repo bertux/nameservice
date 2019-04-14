@@ -9,7 +9,7 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	"github.com/bertux/nameservice/x/staking/types"
 )
 
 // TODO integrate with test_common.go helper (CreateTestInput)

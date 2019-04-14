@@ -12,8 +12,8 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	keep "github.com/cosmos/cosmos-sdk/x/staking/keeper"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	keep "github.com/bertux/nameservice/x/staking/keeper"
+	"github.com/bertux/nameservice/x/staking/types"
 )
 
 func TestInitGenesis(t *testing.T) {

@@ -5,8 +5,8 @@ import (
 	amino "github.com/tendermint/go-amino"
 
 	"github.com/cosmos/cosmos-sdk/client"
-	"github.com/cosmos/cosmos-sdk/x/staking/client/cli"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	"github.com/bertux/nameservice/x/staking/client/cli"
+	"github.com/bertux/nameservice/x/staking/types"
 )
 
 // ModuleClient exports all client functionality from this module

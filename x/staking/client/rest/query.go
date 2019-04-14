@@ -8,7 +8,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/rest"
-	"github.com/cosmos/cosmos-sdk/x/staking"
+	"github.com/bertux/nameservice/x/staking"
 
 	"github.com/gorilla/mux"
 )

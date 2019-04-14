@@ -5,7 +5,7 @@ import (
 	"time"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	"github.com/bertux/nameservice/x/staking/types"
 )
 
 // TODO remove some of these prefixes once have working multistore

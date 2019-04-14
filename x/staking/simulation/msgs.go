@@ -8,8 +8,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/auth"
 	"github.com/cosmos/cosmos-sdk/x/simulation"
-	"github.com/cosmos/cosmos-sdk/x/staking"
-	"github.com/cosmos/cosmos-sdk/x/staking/keeper"
+	"github.com/bertux/nameservice/x/staking"
+	"github.com/bertux/nameservice/x/staking/keeper"
 )
 
 // SimulateMsgCreateValidator

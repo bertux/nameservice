@@ -2,9 +2,9 @@
 package staking
 
 import (
-	"github.com/cosmos/cosmos-sdk/x/staking/keeper"
-	"github.com/cosmos/cosmos-sdk/x/staking/querier"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	"github.com/bertux/nameservice/x/staking/keeper"
+	"github.com/bertux/nameservice/x/staking/querier"
+	"github.com/bertux/nameservice/x/staking/types"
 )
 
 type (
