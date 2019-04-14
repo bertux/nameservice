@@ -1,0 +1,11 @@
+Enter a passphrase to encrypt your key to disk:
+Repeat the passphrase:
+
+NAME:	TYPE:	ADDRESS:						PUBKEY:
+alice	local	cosmos1xj5x297kadms8t277599whcgmp2rxzpar30ahl	cosmospub1addwnpepqdn58tk6muppj4gnxrztgq9efawy6za5tpm3m3pz8vangkr7awxlvppza2t
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+vacuum spice harbor slim prison obvious park afraid trigger magic slab napkin cargo weasel way nose coast order hood elevator enemy wrap size tuition
+

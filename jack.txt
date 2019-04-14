@@ -1,0 +1,8 @@
+NAME:	TYPE:	ADDRESS:						PUBKEY:
+jack	local	cosmos14d3f97z3yg4324tmthwygfdcgphjccrlet3jal	cosmospub1addwnpepq0p4ngfccr2yqqtrxeu8n2x2mr0x7fjm34xds3m5w5ewxjglleu86lt2gk3
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+cushion okay street book ostrich silly giraffe winter actual south method void first twelve filter soul silly hawk bubble kidney walnut spider catalog month
+

@@ -22,6 +22,11 @@ func NewMsgSetName(name string, value string, owner sdk.AccAddress) MsgSetName {
 	}
 }
 
+func Vote(name string, value string, owner sdk.AccAddress) MsgSetName {
+	// to complete
+
+}
+
 // Type should return the name of the module
 func (msg MsgSetName) Route() string { return "nameservice" }
 

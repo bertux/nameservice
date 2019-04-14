@@ -11,6 +11,9 @@ import (
 type Keeper struct {
 	coinKeeper bank.Keeper
 
+//        validatorStatus sdk.StoreKey // validator is approved 
+//	validatorStoreKey sdk.StoreKey // access validator node from sdk.Context
+
 	namesStoreKey  sdk.StoreKey // Unexposed key to access name store from sdk.Context
 	ownersStoreKey sdk.StoreKey // Unexposed key to access owners store from sdk.Context
 	pricesStoreKey sdk.StoreKey // Unexposed key to access prices store from sdk.Context
